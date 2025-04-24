@@ -45,6 +45,7 @@ files.com
 filemail.com
 files.delivrto.me
 filetransfer.io
+file.io
 firebasehostingproxy.page.link
 firebasestorage.googleapis.com
 form.jotform.com
